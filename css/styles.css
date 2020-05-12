@@ -1,0 +1,56 @@
+/*********************************Tag Selectors******************************/
+
+body {
+  background-color: #f9f9f9;
+}
+
+.header{
+  background-color: #d4f3ef;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+
+/****************************Class Selectors *****************************/
+
+.Description{
+  color: #ff5200;
+}
+
+.important-1{
+  color:#fa163f;
+}
+
+.prog-langauge{
+  color:#00263b;
+}
+
+/*Contact.html*/
+
+
+
+.e-mail{
+  color:#58b4ae
+}
+
+.contactform{
+  color:#63b7af
+}
+
+.phonenumber{
+  color:#58b4ae
+}
